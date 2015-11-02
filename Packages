@@ -31,40 +31,6 @@ Depiction: http://repo.tm3dev.com/depics/ac.html
 Name: Adaptive Bar
 
 Package: com.xtm3x.asquared
-Version: 0.0.2-1+debug
-Architecture: iphoneos-arm
-Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
-Installed-Size: 312
-Depends: mobilesubstrate
-Filename: ./debs/com.xtm3x.asquared_0.0.2-1+debug_iphoneos-arm.deb
-Size: 29728
-MD5sum: e3c3702f48204306bc322e7c56a4705f
-SHA1: 44326d122a5293f21152d9111b5ffd9199cc1e1b
-SHA256: c2f9f8df75796cc34932ef750e1520181b8bd4740651331ff98f931bbda6775f
-Section: Tweaks
-Description: Replace application backgrounds with your wallpaper.
-Author: xTheMaster3x <xtm3xyt@gmail.com>
-Depiction: http://repo.tm3dev.com/depics/asquared.html
-Name: Adaptive Apps
-
-Package: com.xtm3x.asquared
-Version: 0.0.4-8
-Architecture: iphoneos-arm
-Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
-Installed-Size: 316
-Depends: mobilesubstrate
-Filename: ./debs/com.xtm3x.asquared_0.0.4-8_iphoneos-arm.deb
-Size: 35906
-MD5sum: 75740782ab869bd944a474096d1a1eb8
-SHA1: 660ba54657c82af7f0e6568bf557141f04eabdb2
-SHA256: b53c5c77018214c1d121baa681e563c9729b7d9d7804cb8fd5f1caa7375560ac
-Section: Tweaks
-Description: Replace application backgrounds with your wallpaper.
-Author: xTheMaster3x <xtm3xyt@gmail.com>
-Depiction: http://repo.tm3dev.com/depics/asquared.html
-Name: Adaptive Apps
-
-Package: com.xtm3x.asquared
 Version: 0.0.1-3+debug
 Architecture: iphoneos-arm
 Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
@@ -82,6 +48,23 @@ Depiction: http://repo.tm3dev.com/depics/asquared.html
 Name: Adaptive Apps
 
 Package: com.xtm3x.asquared
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
+Installed-Size: 312
+Depends: mobilesubstrate
+Filename: ./debs/com.xtm3x.asquared_0.0.2-1+debug_iphoneos-arm.deb
+Size: 29728
+MD5sum: e3c3702f48204306bc322e7c56a4705f
+SHA1: 44326d122a5293f21152d9111b5ffd9199cc1e1b
+SHA256: c2f9f8df75796cc34932ef750e1520181b8bd4740651331ff98f931bbda6775f
+Section: Tweaks
+Description: Replace application backgrounds with your wallpaper.
+Author: xTheMaster3x <xtm3xyt@gmail.com>
+Depiction: http://repo.tm3dev.com/depics/asquared.html
+Name: Adaptive Apps
+
+Package: com.xtm3x.asquared
 Version: 0.0.3-1+debug
 Architecture: iphoneos-arm
 Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
@@ -92,6 +75,23 @@ Size: 30788
 MD5sum: e3793a3ddc719185a3d1aab2561feea6
 SHA1: 1145067c8acd8aa20df4e73f9303bafaba3458ec
 SHA256: a7fb4abb1cf3a65c9ab070b5741487a853ed47bb4f8868676c26cb63ce764637
+Section: Tweaks
+Description: Replace application backgrounds with your wallpaper.
+Author: xTheMaster3x <xtm3xyt@gmail.com>
+Depiction: http://repo.tm3dev.com/depics/asquared.html
+Name: Adaptive Apps
+
+Package: com.xtm3x.asquared
+Version: 0.0.4-8
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
+Installed-Size: 316
+Depends: mobilesubstrate
+Filename: ./debs/com.xtm3x.asquared_0.0.4-8_iphoneos-arm.deb
+Size: 35906
+MD5sum: 75740782ab869bd944a474096d1a1eb8
+SHA1: 660ba54657c82af7f0e6568bf557141f04eabdb2
+SHA256: b53c5c77018214c1d121baa681e563c9729b7d9d7804cb8fd5f1caa7375560ac
 Section: Tweaks
 Description: Replace application backgrounds with your wallpaper.
 Author: xTheMaster3x <xtm3xyt@gmail.com>
@@ -181,50 +181,16 @@ Author: xTheMaster3x
 Name: Integrate
 
 Package: com.xtm3x.noblur
-Version: 1.4.5~beta-6
-Architecture: iphoneos-arm
-Maintainer: xTheMaster3x
-Installed-Size: 388
-Depends: mobilesubstrate
-Filename: ./debs/com.xtm3x.noblur_1.4.5~beta-6_iphoneos-arm.deb
-Size: 66676
-MD5sum: a3f53980fc7d426c83f2e89c2f249fc0
-SHA1: 88eb3060686a8dd38fb6e8eaaf42b53b9f46c0bb
-SHA256: ace07bb5fc1e26afe255597298eb0bb82cbf47b40c28978d0059b19a1970c68b
-Section: Tweaks
-Description: Removes iOS blur views.
-Author: xTheMaster3x
-Depiction: http://repo.tm3dev.com/depics/noblur.html
-Name: NoBlur
-
-Package: com.xtm3x.noblur
-Version: 1.4.5~beta-5
-Architecture: iphoneos-arm
-Maintainer: xTheMaster3x
-Installed-Size: 388
-Depends: mobilesubstrate
-Filename: ./debs/com.xtm3x.noblur_1.4.5~beta-5_iphoneos-arm.deb
-Size: 66784
-MD5sum: 6bac2c21c6e140daa6d56ca0ed40e931
-SHA1: 46ede037132b9059bf993a8fd08d7174d180311a
-SHA256: 86ff397b3882da395a9412e49f558dab6e0c651b09afb46be87d3369388d58f9
-Section: Tweaks
-Description: Removes iOS blur views.
-Author: xTheMaster3x
-Depiction: http://repo.tm3dev.com/depics/noblur.html
-Name: NoBlur
-
-Package: com.xtm3x.noblur
-Version: 1.3-81
+Version: 1.3-21+debug
 Architecture: iphoneos-arm
 Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
-Installed-Size: 480
+Installed-Size: 580
 Depends: mobilesubstrate, preferenceloader, applist
-Filename: ./debs/com.xtm3x.noblur_1.3-81_iphoneos-arm.deb
-Size: 92356
-MD5sum: 49bd4ec555d64a7e8a9bde1ac0bfa236
-SHA1: 5e2a61649ee22c54d9e4da97e33f892b225306c2
-SHA256: 37c202868bec86e8045d5f22b9eec54245d108e87d104b7eff2a7878951ff404
+Filename: ./debs/com.xtm3x.noblur_1.3-21+debug_iphoneos-arm.deb
+Size: 98600
+MD5sum: b45f314229f639e28810b18564271d3e
+SHA1: c5774d7dfbee621398d94ace851bf245acc279ae
+SHA256: 7a659eb770f7e7b289ed7d41dab00053f1c9c32a3216d2c71811e4c97c92d7d2
 Section: Tweaks
 Description: Remove the blur effect in iOS 7/8
 Author: xTheMaster3x <xtm3xyt@gmail.com>
@@ -233,38 +199,22 @@ Name: NoBlur
 Support: http://bugs.tm3dev.appspot.com
 
 Package: com.xtm3x.noblur
-Version: 1.4-beta-1
+Version: 1.3-69+debug
 Architecture: iphoneos-arm
 Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
-Installed-Size: 528
+Installed-Size: 580
 Depends: mobilesubstrate, preferenceloader, applist
-Filename: ./debs/com.xtm3x.noblur_1.4-beta-1_iphoneos-arm.deb
-Size: 101094
-MD5sum: 05ec2c0c6e0befe11349d8a9149e4bcd
-SHA1: 54d2488746c6e2a3161f1767bf76458b78be250c
-SHA256: 643c2534d8427f15db7c578a73b12a22c46a0798546afb33e7111240c4a5dab5
+Filename: ./debs/com.xtm3x.noblur_1.3-69+debug_iphoneos-arm.deb
+Size: 100712
+MD5sum: f3a4a32141c4ab84319f4722055b862a
+SHA1: e384093eb6e066d72e6f748093cf7c1ecc573296
+SHA256: 4a5cbe3b2307e836dbb26b34befcc2461afe20203c30601ddfabffbceb9e59e3
 Section: Tweaks
 Description: Remove the blur effect in iOS 7/8
 Author: xTheMaster3x <xtm3xyt@gmail.com>
 Depiction: http://repo.tm3dev.com/depics/noblur.html
 Name: NoBlur
-
-Package: com.xtm3x.noblur
-Version: 1.4.5~beta-4
-Architecture: iphoneos-arm
-Maintainer: xTheMaster3x
-Installed-Size: 340
-Depends: mobilesubstrate
-Filename: ./debs/com.xtm3x.noblur_1.4.5~beta-4_iphoneos-arm.deb
-Size: 51722
-MD5sum: 6be07a0a66a80617fd3f415de6a4b2fb
-SHA1: 604868365c8c7d8a92b2ccb7bbc4978b3549ef5b
-SHA256: ac668380d35191e89bde27c1011cd06a79e2ff47da0ebb5636ba21b6370501a9
-Section: Tweaks
-Description: Removes iOS blur views.
-Author: xTheMaster3x
-Depiction: http://repo.tm3dev.com/depics/noblur.html
-Name: NoBlur
+Support: http://bugs.tm3dev.appspot.com
 
 Package: com.xtm3x.noblur
 Version: 1.3-78
@@ -277,6 +227,24 @@ Size: 92260
 MD5sum: f2789c6a8c4385de2e419a3ee7300dfb
 SHA1: 4d63c69df0dbfadc5b1d1681e6c3c871b72a17b8
 SHA256: e4890426e44bef0f495ebc963bcb64a6867b584a70ce3f743c43e34b123ef03e
+Section: Tweaks
+Description: Remove the blur effect in iOS 7/8
+Author: xTheMaster3x <xtm3xyt@gmail.com>
+Depiction: http://repo.tm3dev.com/depics/noblur.html
+Name: NoBlur
+Support: http://bugs.tm3dev.appspot.com
+
+Package: com.xtm3x.noblur
+Version: 1.3-81
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
+Installed-Size: 480
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.xtm3x.noblur_1.3-81_iphoneos-arm.deb
+Size: 92356
+MD5sum: 49bd4ec555d64a7e8a9bde1ac0bfa236
+SHA1: 5e2a61649ee22c54d9e4da97e33f892b225306c2
+SHA256: 37c202868bec86e8045d5f22b9eec54245d108e87d104b7eff2a7878951ff404
 Section: Tweaks
 Description: Remove the blur effect in iOS 7/8
 Author: xTheMaster3x <xtm3xyt@gmail.com>
@@ -303,6 +271,40 @@ Name: NoBlur
 Support: http://bugs.tm3dev.appspot.com
 
 Package: com.xtm3x.noblur
+Version: 1.4-beta-1
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
+Installed-Size: 528
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.xtm3x.noblur_1.4-beta-1_iphoneos-arm.deb
+Size: 101094
+MD5sum: 05ec2c0c6e0befe11349d8a9149e4bcd
+SHA1: 54d2488746c6e2a3161f1767bf76458b78be250c
+SHA256: 643c2534d8427f15db7c578a73b12a22c46a0798546afb33e7111240c4a5dab5
+Section: Tweaks
+Description: Remove the blur effect in iOS 7/8
+Author: xTheMaster3x <xtm3xyt@gmail.com>
+Depiction: http://repo.tm3dev.com/depics/noblur.html
+Name: NoBlur
+
+Package: com.xtm3x.noblur
+Version: 1.4-beta-2
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
+Installed-Size: 528
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.xtm3x.noblur_1.4-beta-2_iphoneos-arm.deb
+Size: 101458
+MD5sum: b3c6aef511f6b930d19cf57da054b181
+SHA1: db7112d67df9bc19f97f834ed176a5ce9cf1db87
+SHA256: 4496340db8873932bd8201270f0eb74847870d312058fff41cc74636b53a9475
+Section: Tweaks
+Description: Remove the blur effect in iOS 7/8
+Author: xTheMaster3x <xtm3xyt@gmail.com>
+Depiction: http://repo.tm3dev.com/depics/noblur.html
+Name: NoBlur
+
+Package: com.xtm3x.noblur
 Version: 1.4.5~beta-1
 Architecture: iphoneos-arm
 Maintainer: xTheMaster3x
@@ -313,6 +315,22 @@ Size: 17764
 MD5sum: e567458b99aaaa774764552086ad372c
 SHA1: 6ba9f7a90425d07c22f98eb27705cf05a727b7a0
 SHA256: 6e6b43c664c2c41bde0cfa676c4e1476a3a378126da013e949bb1768d51ddae1
+Section: Tweaks
+Description: Removes iOS blur views.
+Author: xTheMaster3x
+Name: NoBlur
+
+Package: com.xtm3x.noblur
+Version: 1.4.5~beta-2
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 268
+Depends: mobilesubstrate
+Filename: ./debs/com.xtm3x.noblur_1.4.5~beta-2_iphoneos-arm.deb
+Size: 19722
+MD5sum: 03c512e44a9156b43560fc02dc94d986
+SHA1: ab364ebfb3cbfd212d1ac2d8ce58950232681701
+SHA256: 5debf24b10290c97c7becac50de583dab31cf7f1d333944952fada4518169979
 Section: Tweaks
 Description: Removes iOS blur views.
 Author: xTheMaster3x
@@ -335,71 +353,70 @@ Author: xTheMaster3x
 Name: NoBlur
 
 Package: com.xtm3x.noblur
-Version: 1.3-69+debug
-Architecture: iphoneos-arm
-Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
-Installed-Size: 580
-Depends: mobilesubstrate, preferenceloader, applist
-Filename: ./debs/com.xtm3x.noblur_1.3-69+debug_iphoneos-arm.deb
-Size: 100712
-MD5sum: f3a4a32141c4ab84319f4722055b862a
-SHA1: e384093eb6e066d72e6f748093cf7c1ecc573296
-SHA256: 4a5cbe3b2307e836dbb26b34befcc2461afe20203c30601ddfabffbceb9e59e3
-Section: Tweaks
-Description: Remove the blur effect in iOS 7/8
-Author: xTheMaster3x <xtm3xyt@gmail.com>
-Depiction: http://repo.tm3dev.com/depics/noblur.html
-Name: NoBlur
-Support: http://bugs.tm3dev.appspot.com
-
-Package: com.xtm3x.noblur
-Version: 1.4.5~beta-2
+Version: 1.4.5~beta-4
 Architecture: iphoneos-arm
 Maintainer: xTheMaster3x
-Installed-Size: 268
+Installed-Size: 340
 Depends: mobilesubstrate
-Filename: ./debs/com.xtm3x.noblur_1.4.5~beta-2_iphoneos-arm.deb
-Size: 19722
-MD5sum: 03c512e44a9156b43560fc02dc94d986
-SHA1: ab364ebfb3cbfd212d1ac2d8ce58950232681701
-SHA256: 5debf24b10290c97c7becac50de583dab31cf7f1d333944952fada4518169979
+Filename: ./debs/com.xtm3x.noblur_1.4.5~beta-4_iphoneos-arm.deb
+Size: 51722
+MD5sum: 6be07a0a66a80617fd3f415de6a4b2fb
+SHA1: 604868365c8c7d8a92b2ccb7bbc4978b3549ef5b
+SHA256: ac668380d35191e89bde27c1011cd06a79e2ff47da0ebb5636ba21b6370501a9
 Section: Tweaks
 Description: Removes iOS blur views.
 Author: xTheMaster3x
-Name: NoBlur
-
-Package: com.xtm3x.noblur
-Version: 1.3-21+debug
-Architecture: iphoneos-arm
-Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
-Installed-Size: 580
-Depends: mobilesubstrate, preferenceloader, applist
-Filename: ./debs/com.xtm3x.noblur_1.3-21+debug_iphoneos-arm.deb
-Size: 98600
-MD5sum: b45f314229f639e28810b18564271d3e
-SHA1: c5774d7dfbee621398d94ace851bf245acc279ae
-SHA256: 7a659eb770f7e7b289ed7d41dab00053f1c9c32a3216d2c71811e4c97c92d7d2
-Section: Tweaks
-Description: Remove the blur effect in iOS 7/8
-Author: xTheMaster3x <xtm3xyt@gmail.com>
 Depiction: http://repo.tm3dev.com/depics/noblur.html
 Name: NoBlur
-Support: http://bugs.tm3dev.appspot.com
 
 Package: com.xtm3x.noblur
-Version: 1.4-beta-2
+Version: 1.4.5~beta-5
 Architecture: iphoneos-arm
-Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
-Installed-Size: 528
-Depends: mobilesubstrate, preferenceloader, applist
-Filename: ./debs/com.xtm3x.noblur_1.4-beta-2_iphoneos-arm.deb
-Size: 101458
-MD5sum: b3c6aef511f6b930d19cf57da054b181
-SHA1: db7112d67df9bc19f97f834ed176a5ce9cf1db87
-SHA256: 4496340db8873932bd8201270f0eb74847870d312058fff41cc74636b53a9475
+Maintainer: xTheMaster3x
+Installed-Size: 388
+Depends: mobilesubstrate
+Filename: ./debs/com.xtm3x.noblur_1.4.5~beta-5_iphoneos-arm.deb
+Size: 66784
+MD5sum: 6bac2c21c6e140daa6d56ca0ed40e931
+SHA1: 46ede037132b9059bf993a8fd08d7174d180311a
+SHA256: 86ff397b3882da395a9412e49f558dab6e0c651b09afb46be87d3369388d58f9
 Section: Tweaks
-Description: Remove the blur effect in iOS 7/8
-Author: xTheMaster3x <xtm3xyt@gmail.com>
+Description: Removes iOS blur views.
+Author: xTheMaster3x
+Depiction: http://repo.tm3dev.com/depics/noblur.html
+Name: NoBlur
+
+Package: com.xtm3x.noblur
+Version: 1.4.5~beta-6
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 388
+Depends: mobilesubstrate
+Filename: ./debs/com.xtm3x.noblur_1.4.5~beta-6_iphoneos-arm.deb
+Size: 66676
+MD5sum: a3f53980fc7d426c83f2e89c2f249fc0
+SHA1: 88eb3060686a8dd38fb6e8eaaf42b53b9f46c0bb
+SHA256: ace07bb5fc1e26afe255597298eb0bb82cbf47b40c28978d0059b19a1970c68b
+Section: Tweaks
+Description: Removes iOS blur views.
+Author: xTheMaster3x
+Depiction: http://repo.tm3dev.com/depics/noblur.html
+Name: NoBlur
+
+Package: com.xtm3x.noblur
+Version: 1.4.5~beta-7
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 388
+Depends: mobilesubstrate
+Filename: ./debs/com.xtm3x.noblur_1.4.5~beta-7_iphoneos-arm.deb
+Size: 66792
+MD5sum: cf6a510bb536a53abfba60df2b0fea5a
+SHA1: 62596edc583076c81da0ab1503d9bbda244d7ce9
+SHA256: 7a0f84a15b16467b97ef63177c06676d8dec5160d471b65391af7069ccca125a
+Section: Tweaks
+Description: Removes iOS blur views.
+Author: xTheMaster3x
 Depiction: http://repo.tm3dev.com/depics/noblur.html
 Name: NoBlur
 
@@ -490,23 +507,6 @@ Author: xTheMaster3x
 Name: ReplaceBlur
 
 Package: com.xtm3x.sixbar
-Version: 0.0.5-beta-2
-Architecture: iphoneos-arm
-Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/com.xtm3x.sixbar_0.0.5-beta-2_iphoneos-arm.deb
-Size: 4726
-MD5sum: 551caa69f12c261cdd65b81b7ce3a913
-SHA1: d198293b73aceb95a399b7f0bce65914c326da2f
-SHA256: 0979d36aefb937430adf24a1c011775c002d57beb78f9f11199c2237b8afbc25
-Section: Tweaks
-Description: SixBar rewrite --superduperalpha--
-Author: xTheMaster3x <xtm3xyt@gmail.com>
-Depiction: http://repo.tm3dev.com/depics/sixbar.html
-Name: SixBar
-
-Package: com.xtm3x.sixbar
 Version: 0.0.4-451
 Architecture: iphoneos-arm
 Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
@@ -523,6 +523,23 @@ Author: xTheMaster3x <xtm3xyt@gmail.com>
 Depiction: http://repo.tm3dev.com/depics/sixbar.html
 Name: SixBar
 Support: http://bugs.tm3dev.appspot.com/
+
+Package: com.xtm3x.sixbar
+Version: 0.0.5-beta-2
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.xtm3x.sixbar_0.0.5-beta-2_iphoneos-arm.deb
+Size: 4726
+MD5sum: 551caa69f12c261cdd65b81b7ce3a913
+SHA1: d198293b73aceb95a399b7f0bce65914c326da2f
+SHA256: 0979d36aefb937430adf24a1c011775c002d57beb78f9f11199c2237b8afbc25
+Section: Tweaks
+Description: SixBar rewrite --superduperalpha--
+Author: xTheMaster3x <xtm3xyt@gmail.com>
+Depiction: http://repo.tm3dev.com/depics/sixbar.html
+Name: SixBar
 
 Package: com.xtm3x.sixbar
 Version: 0.0.5-beta-46
