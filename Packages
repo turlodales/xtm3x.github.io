@@ -1,18 +1,3 @@
-Package: com.jackhaal.noannoyingsounds
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: winterboard
-Filename: ./debs/com.jackhaal.noannoyingsounds_1.0_iphoneos-arm.deb
-Size: 1104
-MD5sum: b07bd984aa9815c009a6f8383bc842ed
-SHA1: d8f0c29a5e6d1eb3167881b74af1fd6047181960
-SHA256: cef30ecc145986f8bf1d7fcfda97fcccc4cba426a94e863c30fb3e6b60f3a4f3
-Section: Themes (SpringBoard)
-Description: Get rid of annoying sounds!
-Author: jackhaal <j4ckhaal@gmail.com>
-Depiction: http://repo.tm3dev.com/depics/sounds.html
-Name: NoAnnoyingSounds
-
 Package: com.xtm3x.airconditioning
 Version: 1.0
 Architecture: iphoneos-arm
@@ -112,6 +97,23 @@ SHA256: 5a014b6268f17dafe79cc523f020cafa0074b1bca1500e0550fc4c1819072d65
 Section: Tweaks
 Description: In-App browser for the Messages app.
 Author: xTheMaster3x
+Name: BIM
+
+Package: com.xtm3x.bingbong
+Version: 1.2-beta-2
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.xtm3x.bingbong_1.2-beta-2_iphoneos-arm.deb
+Size: 4342
+MD5sum: 4fd08540eec699b3eda49cac00538ed7
+SHA1: c1dd622d72b28d510a6e8f41e8e2a4a7b95e9d26
+SHA256: 805cc41a10e083f24331bd0f0df9daf29c572257adcfdfb3e7f721f6c5868cc7
+Section: Tweaks
+Description: In-App browser for the Messages app.
+Author: xTheMaster3x
+Depiction: http://repo.tm3dev.com/depics/bim.html
 Name: BIM
 
 Package: com.xtm3x.bingbong
