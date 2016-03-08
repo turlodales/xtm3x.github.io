@@ -151,6 +151,23 @@ Depiction: http://repo.tm3dev.com/depics/bim.html
 Name: BIM
 
 Package: com.xtm3x.bingbong
+Version: 1.3.1.3
+Architecture: iphoneos-arm
+Maintainer: xTheMaster3x
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: ./debs/com.xtm3x.bingbong_1.3.1.3_iphoneos-arm.deb
+Size: 13152
+MD5sum: 026f0bff837edaa526607b6796c89139
+SHA1: fb99d3ee65f4310de893d2458828e386e7fa84b3
+SHA256: 14ec45b2c602d85ad79c6aa3c142c6a5336ef0451a006b2b73ac8e0d185bf677
+Section: Tweaks
+Description: In-App browser for the Messages app.
+Author: xTheMaster3x
+Depiction: http://repo.tm3dev.com/depics/bim.html
+Name: BIM
+
+Package: com.xtm3x.bingbong
 Version: 1.2~beta-1
 Architecture: iphoneos-arm
 Maintainer: xTheMaster3x
