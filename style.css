@@ -4,6 +4,7 @@ fieldset>a>div>div>select {
     -moz-appearance: none;
     -webkit-appearance: none
 }
+panel>footer,
 fieldset>div,
 panel>block,
 fieldset>a>div>div>label.detail {
@@ -14,7 +15,7 @@ fieldset>a>div>div>label.detail {
     user-select: element
 }
 fieldset>a[href] {
-    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-tap-highlight-color: transparent;
     -webkit-tap-highlight-color: transparent
 }
 * {
@@ -160,7 +161,7 @@ panel>block {
 }
 @media screen and (-webkit-min-device-pixel-ratio: 2) {
     .cytyle-flat.cytyle-hair panel>block {
-        border-width: 0.5px
+        border-width: .5px
     }
 }
 .cytyle-faux panel>block {
@@ -193,7 +194,7 @@ panel>fieldset {
 }
 @media screen and (-webkit-min-device-pixel-ratio: 2) {
     .cytyle-flat.cytyle-hair panel>fieldset {
-        border-top-width: 0.5px
+        border-top-width: .5px
     }
 }
 .cytyle-faux panel>fieldset {
@@ -204,7 +205,7 @@ panel>fieldset {
 }
 @media screen and (-webkit-min-device-pixel-ratio: 2) {
     .cytyle-flat.cytyle-hair panel>fieldset {
-        border-left-width: 0.5px
+        border-left-width: .5px
     }
 }
 .cytyle-faux panel>fieldset {
@@ -215,7 +216,7 @@ panel>fieldset {
 }
 @media screen and (-webkit-min-device-pixel-ratio: 2) {
     .cytyle-flat.cytyle-hair panel>fieldset {
-        border-right-width: 0.5px
+        border-right-width: .5px
     }
 }
 .cytyle-flat panel>fieldset {
@@ -306,12 +307,12 @@ div.cytyle-app {
     text-rendering: optimizeLegibility
 }
 .cytyle-faux div.cytyle-app {
-    background-color: #e5e5e5;
+    background-color: #e6e6e6;
     background-image: -moz-linear-gradient(top, #fff 0%, #ccc 100%);
     background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #fff), color-stop(100%, #ccc));
     background-image: -webkit-linear-gradient(top, #fff 0%, #ccc 100%);
     background-image: -ms-linear-gradient(top, #fff 0%, #ccc 100%);
-    background-image: linear-gradient(to bottom, #ffffff 0%, #cccccc 100%);
+    background-image: linear-gradient(to bottom, #fff 0%, #ccc 100%);
     border-bottom: 1px solid #fff
 }
 .cytyle-flat div.cytyle-app {
@@ -321,7 +322,7 @@ div.cytyle-app {
 }
 @media screen and (-webkit-min-device-pixel-ratio: 2) {
     .cytyle-flat.cytyle-hair div.cytyle-app {
-        border-width: 0.5px
+        border-width: .5px
     }
 }
 div.cytyle-app>div.icon {
@@ -368,19 +369,19 @@ div.cytyle-app a {
     display: inline-block
 }
 .cytyle-faux div.cytyle-app a {
-    background-color: #e5e5e5;
+    background-color: #e6e6e6;
     background-image: -moz-linear-gradient(top, #fff 0%, #ccc 100%);
     background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #fff), color-stop(100%, #ccc));
     background-image: -webkit-linear-gradient(top, #fff 0%, #ccc 100%);
     background-image: -ms-linear-gradient(top, #fff 0%, #ccc 100%);
-    background-image: linear-gradient(to bottom, #ffffff 0%, #cccccc 100%);
+    background-image: linear-gradient(to bottom, #fff 0%, #ccc 100%);
     border: 1px solid #afafaf;
     border-radius: 3px;
     box-shadow: 0px 1px 0px #fff;
     color: #6a6a6a;
     font-size: 13px;
     font-weight: bold;
-    padding: 0.375em 0.75em;
+    padding: .375em .75em;
     text-shadow: #fff 0px 1px 0
 }
 .cytyle-flat div.cytyle-app a {
@@ -451,7 +452,7 @@ panel>block>ul {
 @media screen and (-webkit-min-device-pixel-ratio: 2) {
     .cytyle-flat.cytyle-hair fieldset>div>hr,
     .cytyle-flat.cytyle-hair panel>block>hr {
-        border-top-width: 0.5px
+        border-top-width: .5px
     }
 }
 fieldset>div a,
@@ -478,7 +479,7 @@ fieldset>textarea {
     .cytyle-flat.cytyle-hair panel>fieldset>a,
     .cytyle-flat.cytyle-hair panel>fieldset>div,
     .cytyle-flat.cytyle-hair panel>fieldset>textarea {
-        border-bottom-width: 0.5px
+        border-bottom-width: .5px
     }
 }
 div.cy-table>fieldset>a,
@@ -565,8 +566,8 @@ fieldset>a>div>div>label.price {
     -o-border-radius: 9px;
     border-radius: 9px;
     color: #fff !important;
-    padding: 0.2em 0.4em;
-    margin: -0.2em -0.4em
+    padding: .2em .4em;
+    margin: -.2em -.4em
 }
 fieldset>a>div>div>label.verbose {
     display: inline-block;
@@ -591,7 +592,7 @@ fieldset>a>span.extra {
     -moz-border-radius-bottomleft: 7px;
     -webkit-border-bottom-left-radius: 7px;
     border-bottom-left-radius: 7px;
-    padding: 0.2em 0.4em;
+    padding: .2em .4em;
     background-color: #ccc;
     color: #fff;
     font-size: 12px;
@@ -612,7 +613,7 @@ fieldset>a>span.badge {
     -moz-border-radius-topleft: 7px;
     -webkit-border-top-left-radius: 7px;
     border-top-left-radius: 7px;
-    padding: 0.2em 0.4em;
+    padding: .2em .4em;
     background-color: #da0812;
     color: #fff;
     font-size: 11px;
@@ -708,7 +709,7 @@ fieldset>a[type="profile"]>img.icon+div {
 }
 @media screen and (-webkit-min-device-pixel-ratio: 2) {
     .cytyle-flat.cytyle-hair fieldset>a[type="profile"]>img.icon+div {
-        border-left-width: 0.5px
+        border-left-width: .5px
     }
 }
 fieldset>a[type="profile"]>img.icon+div>div {
@@ -746,7 +747,7 @@ fieldset>a[type="thumb"]>img.icon+div {
 }
 @media screen and (-webkit-min-device-pixel-ratio: 2) {
     .cytyle-flat.cytyle-hair fieldset>a[type="thumb"]>img.icon+div {
-        border-left-width: 0.5px
+        border-left-width: .5px
     }
 }
 fieldset>a[type="thumb"]>img.icon+div>div {
@@ -785,7 +786,7 @@ div.cy-table>label {
 }
 @media screen and (-webkit-min-device-pixel-ratio: 2) {
     .cytyle-flat.cytyle-hair fieldset>.left {
-        border-right-width: 0.5px
+        border-right-width: .5px
     }
 }
 fieldset>.left,
@@ -813,7 +814,7 @@ panel>fieldset.half {
 }
 @media screen and (-webkit-min-device-pixel-ratio: 2) {
     .cytyle-flat.cytyle-hair fieldset.half>a {
-        border-right-width: 0.5px
+        border-right-width: .5px
     }
 }
 .cytyle-faux fieldset.half>a {
@@ -885,7 +886,7 @@ fieldset>a>div>div>input[type="checkbox"]:checked {
 }
 @media screen and (-webkit-min-device-pixel-ratio: 2) {
     .cytyle-flat.cytyle-hair fieldset>a>div>div>input[type="checkbox"] {
-        border-width: 0.5px
+        border-width: .5px
     }
 }
 .cytyle-faux fieldset>a>div>div>input[type="checkbox"] {
@@ -907,7 +908,7 @@ fieldset>a>div>div>select {
     direction: rtl;
     float: right;
     min-width: 100px;
-    text-indent: 0.01px;
+    text-indent: .01px;
     text-overflow: ""
 }
 fieldset>a>div>div>select::-ms-expand {
@@ -938,10 +939,10 @@ fieldset>textarea.right {
     color: #8e8e9f
 }
 fieldset>a.cytyle-up {
-    -webkit-transition: background 0.3s ease-in
+    -webkit-transition: background .3s ease-in
 }
 fieldset>a.cytyle-up p {
-    -webkit-transition: color 0.3s ease-in
+    -webkit-transition: color .3s ease-in
 }
 fieldset>a.cytyle-dn label,
 fieldset>a.cytyle-dn span,
@@ -963,7 +964,7 @@ fieldset>a.cytyle-in span {
 }
 .cytyle-faux fieldset>a.cytyle-dn,
 .cytyle-faux fieldset>a.cytyle-in {
-    background-color: #0374e2 !important;
+    background-color: #0375e3 !important;
     background-image: -moz-linear-gradient(top, #058cdf 0%, #015de6 100%) !important;
     background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #058cdf), color-stop(100%, #015de6)) !important;
     background-image: -webkit-linear-gradient(top, #058cdf 0%, #015de6 100%) !important;
@@ -1010,21 +1011,22 @@ select {
 }
 .cytyle-faux panel>block p,
 .cytyle-faux fieldset>div>p {
-    margin-left: -0.0625em;
-    margin-right: -0.0625em
+    margin-left: -.0625em;
+    margin-right: -.0625em
 }
 .cytyle-flat panel>block p,
 .cytyle-flat fieldset>div>p {
-    margin-left: -0.05882em;
-    margin-right: -0.05882em
+    margin-left: -.05882em;
+    margin-right: -.05882em
 }
 .cytyle-faux fieldset>a>div>div>label:first-child,
 .cytyle-faux fieldset>a>div>div>label.lower,
 .cytyle-faux fieldset>a>div>div>label.url {
-    left: -0.0625em
+    left: -.0625em
 }
 .cytyle-flat fieldset>a>div>div>label:first-child,
 .cytyle-flat fieldset>a>div>div>label.lower,
 .cytyle-flat fieldset>a>div>div>label.url {
-    left: -0.05882em
+    left: -.05882em
 }
+/*# sourceMappingURL=style.css.map */
