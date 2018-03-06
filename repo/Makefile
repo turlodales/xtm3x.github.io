@@ -6,6 +6,8 @@ all: Release
 Release: Packages Packages.bz2
 	$(eval SIZE1 := $(shell wc -c Packages | sed 's/[[:space:]].*//'))
 	$(eval SIZE2 := $(shell wc -c Packages.bz2 | sed 's/[[:space:]].*//'))
+	@cp Release_ $@
+
 	@echo MD5Sum: >> $@
 	@echo " `md5sum Packages | sed "s/  / $(SIZE1) /"`" >> $@
 	@echo " `md5sum Packages.bz2 | sed "s/  / $(SIZE2) /"`" >> $@
@@ -19,7 +21,7 @@ Release: Packages Packages.bz2
 	@echo " `sha256sum Packages.bz2 | sed "s/  / $(SIZE2) /"`" >> $@
 
 Packages:
-	@dpkg-scanpackages -m . /dev/null > Packages
+	@./dpkg-scanpackages -m . /dev/null > Packages
 
 Packages.bz2: Packages
 	@bzip2 -fk $^
