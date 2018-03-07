@@ -56,7 +56,6 @@ const VERSION_CHECK_UNSUPPORTED = "Only compatible with iOS %s to %s &#x1f61e;";
 			}
 
 			if (Number(one[i]) == Number(two[i])) {
-				window.alert("continue");
 				continue;
 			} else if (Number(one[i]) > Number(two[i])) {
 				return 1;
