@@ -846,20 +846,6 @@ Name: SleekKey
 Author: xTheMaster3x
 Depiction: http://repo.tm3dev.com/depics/sleekkey.html
 
-Package: com.xtm3x.slf
-Version: 0.0.1
-Section: Tweaks
-Maintainer: xTheMaster3x
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./pkgfiles/com.xtm3x.slf_0.0.1_iphoneos-arm.deb
-Size: 3428
-Installed-Size: 120
-MD5sum: 6a9155c5c67f6f13edd60f56b7013b8e
-Description: An awesome MobileSubstrate tweak!
-Name: Settings Layout Fix
-Author: xTheMaster3x
-
 Package: com.xtm3x.sweepup
 Version: 0.0.1-1
 Section: Tweaks
