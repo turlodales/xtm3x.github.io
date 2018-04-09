@@ -6,3 +6,12 @@ Codename: stable
 Architectures: iphoneos-arm
 Components: main
 Description: Repo for beta stuff
+MD5Sum:
+ 64f0464080a8b733376e289103352a9e 25326 Packages
+ 2e253379c5ec7f7a45f18855bd62e3a7 3599 Packages.bz2
+SHA1:
+ ced9ccdf6f98c214741512dbd13dfb7b363b6861 25326 Packages
+ 1f695635a3ae596ac4a11ee09238ebdf833551a2 3599 Packages.bz2
+SHA256:
+ 745c87c26cf84ee24ef72a7601dcead86cacf09745e3dd763b3c53f89e24c0c2 25326 Packages
+ fb892760f1c40e5bebc847968113b06e76c5153c6bb1a92ce573a01cacf549a4 3599 Packages.bz2
