@@ -118,6 +118,20 @@ Name: AUPM
 Author: xTheMaster3x
 
 Package: com.xtm3x.aupm
+Version: 0.0.1-662+debug
+Section: Packaging
+Maintainer: xTheMaster3x
+Depends: dpkg, cydia
+Architecture: iphoneos-arm
+Filename: ./pkgfiles/com.xtm3x.aupm_0.0.1-662+debug_iphoneos-arm.deb
+Size: 84226
+Installed-Size: 560
+MD5sum: ef85e59ca8e67d16680a412e5de211d5
+Description: A Useless Package Manager
+Name: AUPM
+Author: xTheMaster3x
+
+Package: com.xtm3x.aupm
 Version: 0.0.1-556+debug
 Section: Packaging
 Maintainer: xTheMaster3x
