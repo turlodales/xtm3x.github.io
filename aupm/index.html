@@ -17,6 +17,16 @@
 			ga('require', 'displayfeatures');
 			ga('send', 'pageview');
 		</script>
+		<script type='text/javascript'>
+		    function nukeDB()
+		    {
+			window.location = 'ios:nuke';
+		    }
+		    function sendBug()
+		    {
+			window.location = 'ios:sendBug';
+		    }
+		</script>
 	</head>
 	<body class="pinstripe">
 		<panel>
@@ -35,7 +45,7 @@
 				</div>
 				<div>
 				</div>
-				<a href="mailto:wilson@styres.me">
+				<a id="bugReport" href="#" onclick="sendBug();return false;">
 					<img class="icon" src="../repo/icons/report.png" width="58" height="58">
 					<div>
 						<div>
@@ -88,6 +98,19 @@
 					<p><strong>* </strong>Fixed Siri individual option iOS 10</p>
 				</div>
 			</fieldset> -->
+			<label>Debug</label>
+			<fieldset>
+				<a id="nukeDatabase" href="#" onclick="nukeDB();return false;">
+					<img class="icon" src="../repo/icons/knownbugs.png" width="58" height="58">
+					<div>
+						<div>
+							<label>
+								<p>Nuke Database</p>
+							</label>
+						</div>
+					</div>
+				</a>
+			</fieldset>
 		</panel>
 	</body>
 </html>
