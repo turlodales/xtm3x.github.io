@@ -17,45 +17,9 @@
 			ga('require', 'displayfeatures');
 			ga('send', 'pageview');
 		</script>
-		<script type='text/javascript'>
-		    function nukeDB()
-		    {
-			window.location = 'ios:nuke';
-		    }
-		    function sendBug()
-		    {
-			window.location = 'ios:sendBug';
-		    }
-		</script>
 	</head>
 	<body class="pinstripe">
 		<panel>
-			<block>
-				<p>Welcome to the AUPM Beta! Please report any bugs you experience!</p>
-			</block>
-			<label>Info</label>
-			<block>
-				<p>There are no options to configure.</p>
-				<hr>
-				<p>You are running AUPM Version %@</p>
-			</block>
-			<fieldset>
-				<div>
-					<p>A very basic package manager for iOS.</p>
-				</div>
-				<div>
-				</div>
-				<a id="bugReport" href="#" onclick="sendBug();return false;">
-					<img class="icon" src="https://xtm3x.github.io/repo/icons/report.png" width="58" height="58">
-					<div>
-						<div>
-							<label>
-								<p>Report a Bug</p>
-							</label>
-						</div>
-					</div>
-				</a>
-			</fieldset>
 			<label>New in 1.0~beta1</label>
 			<fieldset>
 				<div>
@@ -98,19 +62,6 @@
 					<p><strong>* </strong>Fixed Siri individual option iOS 10</p>
 				</div>
 			</fieldset> -->
-			<label>Debug</label>
-			<fieldset>
-				<a id="nukeDatabase" href="#" onclick="nukeDB();return false;">
-					<img class="icon" src="https://xtm3x.github.io/repo/icons/knownbugs.png" width="58" height="58">
-					<div>
-						<div>
-							<label>
-								<p>Delete Database and Refresh</p>
-							</label>
-						</div>
-					</div>
-				</a>
-			</fieldset>
 		</panel>
 	</body>
 </html>
