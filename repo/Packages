@@ -877,3 +877,18 @@ Name: TitleHide
 Author: xTheMaster3x
 Depiction: http://repo.tm3dev.com/depics/titlehide.html
 
+Package: xyz.willy.aupm
+Version: 1.0~beta1
+Section: Packaging
+Maintainer: Wilson Styres <wilson@styres.me>
+Depends: dpkg, cydia
+Architecture: iphoneos-arm
+Filename: ./pkgfiles/xyz.willy.aupm_1.0~beta1_iphoneos-arm.deb
+Size: 2270642
+Installed-Size: 9196
+MD5sum: ab836ea311bc4ab2f35eec81041248dc
+Description: A Useless Package Manager
+Name: AUPM (BETA)
+Author: Wilson Styres <wilson@styres.me>
+Depiction: https://xtm3x.github.io/aupm/index.html
+
