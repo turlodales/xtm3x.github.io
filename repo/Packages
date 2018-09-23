@@ -892,3 +892,18 @@ Name: AUPM (BETA)
 Author: Wilson Styres <wilson@styres.me>
 Depiction: https://xtm3x.github.io/aupm/index.html
 
+Package: xyz.willy.aupm
+Version: 1.0~beta2
+Section: Packaging
+Maintainer: Wilson Styres <wilson@styres.me>
+Depends: dpkg, cydia
+Architecture: iphoneos-arm
+Filename: ./pkgfiles/xyz.willy.aupm_1.0~beta2_iphoneos-arm.deb
+Size: 2270546
+Installed-Size: 9196
+MD5sum: a89ce68a76c24d40ecec473f35a8d54c
+Description: A Useless Package Manager
+Name: AUPM (BETA)
+Author: Wilson Styres <wilson@styres.me>
+Depiction: https://xtm3x.github.io/aupm/index.html
+
