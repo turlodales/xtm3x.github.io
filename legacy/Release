@@ -1,0 +1,17 @@
+Origin: xTM3x Repo
+Label: xTM3x Repo
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: iphoneos-arm
+Components: main
+Description: Repo for beta stuff
+MD5Sum:
+ eb92e91624c4a830bc8d1b0ea1fbb531 33472 Packages
+ 97dcc95fb41720777729b406e7f50e37 4340 Packages.bz2
+SHA1:
+ 11183d6d7781fc2d93400676a1323f6253ec6ae3 33472 Packages
+ 5c1c46d51f80dce8b3a917a9193ee355d5167d44 4340 Packages.bz2
+SHA256:
+ cbd5e44e5ca219ff31a39a864ee799fe26883983daf88621ee9b9d32715b4a13 33472 Packages
+ 40b4a75d17d010939a29f75a44e83a69ea57dfa4382c9e3a43cdba16fcd88785 4340 Packages.bz2
