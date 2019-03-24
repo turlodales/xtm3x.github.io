@@ -1,3 +1,19 @@
+Package: com.xtm3x.noblur
+Version: 1.7
+Section: Tweaks
+Maintainer: Wilson Styres <wilson@styres.me>
+Depends: mobilesubstrate
+Conflicts: com.xtm3x.noblurlite
+Architecture: iphoneos-arm
+Filename: ./pkgfiles/com.xtm3x.noblur_1.7_iphoneos-arm.deb
+Size: 2708
+Installed-Size: 104
+MD5sum: b667b1153ad3c630c2344ffaf82912af
+Description: Remove blurs from UI elements system-wide
+Name: NoBlur
+Author: Wilson Styres <wilson@styres.me>
+Depiction: https://xtm3x.github.io/repo/depictions/com.xtm3x.noblur/
+
 Package: xyz.willy.aupm
 Version: 1.0~beta20
 Section: Packaging
