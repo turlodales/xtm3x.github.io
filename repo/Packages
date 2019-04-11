@@ -14,21 +14,6 @@ Name: NoBlur
 Author: Wilson Styres <wilson@styres.me>
 Depiction: https://xtm3x.github.io/repo/depictions/com.xtm3x.noblur/
 
-Package: xyz.willy.aupm
-Version: 1.0~beta20
-Section: Packaging
-Maintainer: Wilson Styres <wilson@styres.me>
-Depends: dpkg, cydia, apt7
-Architecture: iphoneos-arm
-Filename: ./pkgfiles/xyz.willy.aupm_1.0~beta20_iphoneos-arm.deb
-Size: 2840330
-Installed-Size: 10152
-MD5sum: d90ae7819e4189e3049a8dba3885d5a2
-Description: A Useless Package Manager
-Name: AUPM (BETA)
-Author: Wilson Styres <wilson@styres.me>
-Depiction: https://xtm3x.github.io/repo/depictions/xyz.willy.aupm/
-
 Package: xyz.willy.zebra
 Version: 1.0~beta1
 Section: Packaging
