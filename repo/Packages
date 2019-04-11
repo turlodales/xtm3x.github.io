@@ -29,3 +29,18 @@ Name: AUPM (BETA)
 Author: Wilson Styres <wilson@styres.me>
 Depiction: https://xtm3x.github.io/repo/depictions/xyz.willy.aupm/
 
+Package: xyz.willy.zebra
+Version: 1.0~beta1
+Section: Packaging
+Maintainer: Wilson Styres <wilson@styres.me>
+Depends: dpkg, apt1.4 | apt7
+Architecture: iphoneos-arm
+Filename: ./pkgfiles/xyz.willy.zebra_1.0~beta1_iphoneos-arm.deb
+Size: 862040
+Installed-Size: 3272
+MD5sum: 332516703a7f3581b163757780d9b20c
+Description: A Useful Package Manager
+Name: Zebra (BETA)
+Author: Wilson Styres <wilson@styres.me>
+Depiction: https://xtm3x.github.io/repo/depictions/xyz.willy.zebra/
+
