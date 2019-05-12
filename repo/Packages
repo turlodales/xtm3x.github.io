@@ -17,6 +17,24 @@ Depiction: https://xtm3x.github.io/repo/depictions/com.xtm3x.noblur/
 Name: NoBlur
 
 Package: xyz.willy.zebra
+Version: 1.0~beta10
+Architecture: iphoneos-arm
+Maintainer: Wilson Styres <wilson@styres.me>
+Installed-Size: 5264
+Depends: dpkg
+Filename: ./pkgfiles/xyz.willy.zebra_1.0~beta10_iphoneos-arm.deb
+Size: 1786810
+MD5sum: a9aa8300e62e6b249c1bdd332a06f96f
+SHA1: 3ff7e3d95931234054570f49dcba6443dec6b602
+SHA256: e78bc51f9b5c2162d0af551ee2201056c93068b9386f2b0510ac79e7cfca99dd
+Section: Packaging
+Description: A Useful Package Manager
+Tag: purpose::x
+Author: Wilson Styres <wilson@styres.me>
+Depiction: https://xtm3x.github.io/repo/depictions/xyz.willy.zebra/
+Name: Zebra (BETA)
+
+Package: xyz.willy.zebra
 Version: 1.0~beta2
 Architecture: iphoneos-arm
 Maintainer: Wilson Styres <wilson@styres.me>
