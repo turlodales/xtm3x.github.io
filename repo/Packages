@@ -53,6 +53,24 @@ Depiction: https://xtm3x.github.io/repo/depictions/xyz.willy.zebra/
 Name: Zebra (BETA)
 
 Package: xyz.willy.zebra
+Version: 1.0~beta12
+Architecture: iphoneos-arm
+Maintainer: Wilson Styres <wilson@styres.me>
+Installed-Size: 13592
+Depends: dpkg
+Filename: ./pkgfiles/xyz.willy.zebra_1.0~beta12_iphoneos-arm.deb
+Size: 3856584
+MD5sum: 0e40fc4656b9a6bea306983119ce3dc1
+SHA1: bfdfe6de6dfbe852f5d5aea52adbbd638c03404f
+SHA256: 9719880a11e98df98f4050a7e8e6a6a456cb6a50099fad7e0b35ef4d668ecdc3
+Section: Packaging
+Description: A Useful Package Manager
+Tag: purpose::x
+Author: Wilson Styres <wilson@styres.me>
+Depiction: https://xtm3x.github.io/repo/depictions/xyz.willy.zebra/
+Name: Zebra (BETA)
+
+Package: xyz.willy.zebra
 Version: 1.0~beta2
 Architecture: iphoneos-arm
 Maintainer: Wilson Styres <wilson@styres.me>
